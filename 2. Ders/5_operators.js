@@ -7,5 +7,5 @@ console.log(b)
 let c = !(3 == 4) // karşıtlık operatörü
 console.log(c)
 
-let d = (3 == 4)?"1":"2"
+let d = (3 == 4)?"1":"2"  //ternary if
 console.log(d)

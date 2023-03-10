@@ -3,9 +3,9 @@ const nesne = {
     durum: false,
     sehirler: ["Balıkesir", "İstanbul"],
     yas: 25,
-    deger: function(a, b)
+    deger: function (a, b) 
     {
-        return a+b+this.yas
+        return a + b + this.yas
     }
 }
 

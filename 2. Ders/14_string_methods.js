@@ -1,12 +1,12 @@
 let metin = " Metin "
 
+console.log(metin.length)  // metnin karakter uzunluğu
+
+metin = metin.trim()      // metnin sağındaki ve solundaki boşlukları siler
 console.log(metin.length)
 
-metin = metin.trim()
-console.log(metin.length)
-
-console.log(metin.substring(2, 4))
-console.log(metin.charAt(2))
+console.log(metin.substring(2, 4)) // 2. indeksten başlayıp 4'e kadar yazdırır
+console.log(metin.charAt(2))   //2. indeksteki değeri verir
 
 
 

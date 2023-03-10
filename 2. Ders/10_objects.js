@@ -6,3 +6,5 @@ let metin = new String()
 console.log(typeof sayi)
 console.log(typeof bool)
 console.log(typeof metin)
+
+// ekrana hep object yazdırır

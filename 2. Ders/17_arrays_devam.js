@@ -1,9 +1,9 @@
 let isimler = ["Ali", "Veli", 3, 3.5, true, ["Bu", "da", "bir", "dizi"]]
 
-isimler.pop() // sonunda eleman siler
+isimler.pop() // dizinin sonundan 1 eleman siler
 console.log(isimler)
 
-delete isimler[1] // elemanı siler
+delete isimler[1] // istenen yerden elemanı siler
 console.log(isimler)
 
 let a = [1, 9, 4, 8, 5]
